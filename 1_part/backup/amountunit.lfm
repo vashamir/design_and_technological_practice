@@ -1,0 +1,43 @@
+object AmountForm: TAmountForm
+  Left = 1087
+  Height = 443
+  Top = 275
+  Width = 361
+  AutoSize = True
+  Caption = 'Amount'
+  ClientHeight = 443
+  ClientWidth = 361
+  DesignTimePPI = 120
+  OnShow = FormShow
+  LCLVersion = '2.0.12.0'
+  object Table: TStringGrid
+    Left = 56
+    Height = 307
+    Top = 24
+    Width = 248
+    ColCount = 2
+    TabOrder = 0
+    ColWidths = (
+      122
+      121
+    )
+    Cells = (
+      2
+      0
+      0
+      'Name'
+      1
+      0
+      'Amount'
+    )
+  end
+  object BackBB: TButton
+    Left = 112
+    Height = 47
+    Top = 363
+    Width = 137
+    Caption = 'Back'
+    OnClick = BackBBClick
+    TabOrder = 1
+  end
+end

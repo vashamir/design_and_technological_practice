@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="5" Y="28"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="startunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="StartForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="StartUnit"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos Y="133"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="addunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AddForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AddUnit"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="86"/>
+        <CursorPos Y="114"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="deleteunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DeleteForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="DeleteUnit"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="104"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="availabilityunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AvailabilityForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AvailabilityUnit"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="39"/>
+        <CursorPos Y="67"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="amountunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AmountForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AmountUnit"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="24"/>
+        <CursorPos Y="52"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="periodunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PeriodForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="PeriodUnit"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="54"/>
+        <CursorPos Y="82"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="graphunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="GraphForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="GraphUnit"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="97"/>
+        <CursorPos X="61" Y="104"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9933"/>
+        <CursorPos Y="9946"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\lazarus\lcl\include\customimage.inc"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="252"/>
+        <CursorPos X="36" Y="37"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="startunit.pas"/>
+        <Caret Line="44" Column="41" TopLine="25"/>
+      </Position1>
+      <Position2>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="8" Column="96"/>
+      </Position2>
+      <Position3>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="31" Column="3" TopLine="25"/>
+      </Position3>
+      <Position4>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="75" Column="17" TopLine="51"/>
+      </Position4>
+      <Position5>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="78" Column="35" TopLine="52"/>
+      </Position5>
+      <Position6>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="74" Column="38" TopLine="52"/>
+      </Position6>
+      <Position7>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="75" Column="36" TopLine="55"/>
+      </Position7>
+      <Position8>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="74" Column="19" TopLine="57"/>
+      </Position8>
+      <Position9>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="80" Column="5" TopLine="57"/>
+      </Position9>
+      <Position10>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="77" Column="3" TopLine="57"/>
+      </Position10>
+      <Position11>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="83" Column="5" TopLine="58"/>
+      </Position11>
+      <Position12>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="82" Column="6" TopLine="64"/>
+      </Position12>
+      <Position13>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="93" Column="50" TopLine="68"/>
+      </Position13>
+      <Position14>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="99" Column="46" TopLine="80"/>
+      </Position14>
+      <Position15>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="83" Column="25" TopLine="69"/>
+      </Position15>
+      <Position16>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="95" Column="10" TopLine="73"/>
+      </Position16>
+      <Position17>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="33" Column="24" TopLine="20"/>
+      </Position17>
+      <Position18>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="103" Column="45" TopLine="88"/>
+      </Position18>
+      <Position19>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="33" Column="35" TopLine="12"/>
+      </Position19>
+      <Position20>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="105" Column="150" TopLine="91"/>
+      </Position20>
+      <Position21>
+        <Filename Value="startunit.pas"/>
+        <Caret Line="57" Column="32"/>
+      </Position21>
+      <Position22>
+        <Filename Value="startunit.pas"/>
+        <Caret Line="59" Column="32" TopLine="31"/>
+      </Position22>
+      <Position23>
+        <Filename Value="startunit.pas"/>
+        <Caret Line="74" Column="45"/>
+      </Position23>
+      <Position24>
+        <Filename Value="addunit.pas"/>
+        <Caret Line="19" Column="20" TopLine="7"/>
+      </Position24>
+      <Position25>
+        <Filename Value="addunit.pas"/>
+        <Caret Line="111" TopLine="86"/>
+      </Position25>
+      <Position26>
+        <Filename Value="deleteunit.pas"/>
+        <Caret Line="5" Column="12"/>
+      </Position26>
+      <Position27>
+        <Filename Value="availabilityunit.pas"/>
+        <Caret Line="15" Column="19" TopLine="9"/>
+      </Position27>
+      <Position28>
+        <Filename Value="amountunit.pas"/>
+        <Caret Line="10" Column="34"/>
+      </Position28>
+      <Position29>
+        <Filename Value="periodunit.pas"/>
+        <Caret Line="31" Column="29" TopLine="54"/>
+      </Position29>
+      <Position30>
+        <Filename Value="graphunit.pas"/>
+        <Caret Line="11" Column="37"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
