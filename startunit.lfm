@@ -1,0 +1,76 @@
+object StartForm: TStartForm
+  Left = 559
+  Height = 465
+  Top = 150
+  Width = 645
+  Caption = 'StartForm'
+  ClientHeight = 0
+  ClientWidth = 0
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  OnShow = FormShow
+  LCLVersion = '2.0.12.0'
+  object AddButton: TButton
+    Left = 111
+    Height = 59
+    Top = 40
+    Width = 168
+    Caption = 'Add'
+    OnClick = AddButtonClick
+    TabOrder = 0
+  end
+  object DeleteButton: TButton
+    Left = 376
+    Height = 59
+    Top = 40
+    Width = 168
+    Caption = 'Delete'
+    OnClick = DeleteButtonClick
+    TabOrder = 1
+  end
+  object AvailabilityButton: TButton
+    Left = 87
+    Height = 65
+    Top = 160
+    Width = 220
+    Caption = 'Availability'
+    OnClick = AvailabilityButtonClick
+    TabOrder = 2
+  end
+  object AmountButton: TButton
+    Left = 357
+    Height = 65
+    Top = 160
+    Width = 219
+    Caption = 'Amount'
+    OnClick = AmountButtonClick
+    TabOrder = 3
+  end
+  object PeriodButton: TButton
+    Left = 87
+    Height = 64
+    Top = 280
+    Width = 219
+    Caption = 'Product per period'
+    OnClick = PeriodButtonClick
+    TabOrder = 4
+  end
+  object GraphButton: TButton
+    Left = 359
+    Height = 64
+    Top = 280
+    Width = 217
+    Caption = 'Graph'
+    OnClick = GraphButtonClick
+    TabOrder = 5
+  end
+  object Button1: TButton
+    Left = 256
+    Height = 39
+    Top = 392
+    Width = 128
+    Caption = 'Close'
+    OnClick = Button1Click
+    TabOrder = 6
+  end
+end
